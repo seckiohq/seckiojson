@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "quote": "Testimonial quote...",
+    "author": "John Doe",
+    "role": "CEO, Company",
+    "company": "Company Name",
+    "color": "#6619D0",
+    "avatar": "https://example.com/avatar.jpg"
+  }
+]
