@@ -2,6 +2,7 @@
   {
     "quote": "Seckio's platforms replaced five disparate tools in our stack. The unified intelligence layer is a game changer.",
     "author": "Sarah Jenkins",
+    "product": "End to End Pentest Workflow Management",
     "role": "CISO, TechGlobal",
     "company": "TechGlobal",
     "color": "#6619D0"
@@ -9,6 +10,7 @@
   {
     "quote": "The integration between SCG services and Vulnerability Management Scanner gives us unmatched visibility into our attack surface.",
     "author": "David Chen",
+    "product": "Vulnerability Management Scanner",
     "role": "VP Security, FinSafe",
     "company": "FinSafe",
     "color": "#9fef00"
@@ -16,6 +18,7 @@
   {
     "quote": "AttackerLabs transformed how we train our SOC analysts. Real-world simulation beats classroom theory every time.",
     "author": "Elena Rodriguez",
+    "product": "Attacker Labs"
     "role": "Head of SecOps, DataFort",
     "company": "DataFort",
     "color": "#ef4444"
