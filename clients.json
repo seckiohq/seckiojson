@@ -1,1 +1,27 @@
-
+[
+  {
+    "name": "TechCorp Inc.",
+    "logo": "https://example.com/techcorp-logo.svg",
+    "url": "https://techcorp.com"
+  },
+  {
+    "name": "SecureSystems",
+    "logo": "https://example.com/securesystems-logo.svg",
+    "url": "https://securesystems.com"
+  },
+  {
+    "name": "DataFort",
+    "logo": "https://example.com/datafort-logo.svg",
+    "url": "https://datafort.com"
+  },
+  {
+    "name": "FinSafe",
+    "logo": "https://example.com/finsafe-logo.svg",
+    "url": "https://finsafe.com"
+  },
+  {
+    "name": "HealthChain",
+    "logo": "https://example.com/healthchain-logo.svg",
+    "url": "https://healthchain.com"
+  }
+]
