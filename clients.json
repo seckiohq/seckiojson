@@ -3,5 +3,15 @@
     "name": "TechCorp Inc.",
     "logo": "https://example.com/techcorp-logo.svg",
     "url": "https://techcorp.com"
+  },
+    {
+    "name": "SecCorp Inc.",
+    "logo": "https://example.com/techcorp-logo.svg",
+    "url": "https://techcorp.com"
+  },
+    {
+    "name": "ZephCorp Inc.",
+    "logo": "https://example.com/techcorp-logo.svg",
+    "url": "https://techcorp.com"
   }
 ]
